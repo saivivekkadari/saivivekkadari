@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @saivivekkadari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Kadari Saivivek
+🚀 Passionate about software development, problem-solving, and web technologies.
 
-<!---
-saivivekkadari/saivivekkadari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in
+Building scalable and efficient applications
+Web development with JavaScript, Node.js, and modern frameworks
+🌱 I’m currently learning
+Full-stack development with JavaScript and backend technologies
+💞️ I’m looking to collaborate on
+Web applications
+Open-source projects
+📫 How to reach me
+📧 saivivekkadari@gmail.com
+🔗 LinkedIn
+💻 GitHub
+
+🛠 Tech Stack
+Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript
+Backend: Node.js
+Databases: MySQL
+Version Control: Git, GitHub
+⚡ Fun fact
+I enjoy exploring new web technologies and enhancing my coding skills!
