@@ -9,11 +9,10 @@ Full-stack development with JavaScript and backend technologies
 💞️ I’m looking to collaborate on
 Web applications
 Open-source projects
-📫 How to reach me
-📧 saivivekkadari@gmail.com
-🔗 LinkedIn
-💻 GitHub
-
+## 📫 How to reach me  
+If you’d like to connect or collaborate, feel free to reach out:  
+📧 **Email:** saivivekkadari@gmail.com  
+🔗 **LinkedIn:** [Kadari Saivivek](https://www.linkedin.com/in/saivivek-kadari-a86172288)  
 🛠 Tech Stack
 Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript
 Backend: Node.js
